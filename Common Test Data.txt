@@ -1,0 +1,15 @@
+Full_Name: abcxyz
+Email :abcxyz@gmail.com
+       abcxyz@abccom
+Password: abcd1234
+Item : abcd
+SKU : A1B2011
+Barcode : 12345678
+Quantity : 100
+Unit : 10000
+Additional image: https://paste.pics/15fe3329132d58d7eed47f0b0424ae34
+States : 5090 Berlin Pl
+Date: 12/12/2012
+
+Description/Comment/Message : Nexchar reserves the right to update and change the Terms of Use 
+by posting updates and changes to the Nexchar website.
